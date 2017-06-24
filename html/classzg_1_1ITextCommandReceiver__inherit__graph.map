@@ -1,0 +1,5 @@
+<map id="ITextCommandReceiver" name="ITextCommandReceiver">
+<area shape="rect" id="node2" href="$classzg_1_1ZGPeerSession.html" title="This is the class that a user program would typically subclass from and add to a ReflectServer in ord..." alt="" coords="34,80,149,107"/>
+<area shape="rect" id="node3" href="$classzg_1_1ZGDatabasePeerSession.html" title="This is a convenience class; it is the same as a ZGPeerSession except that it also knows how to creat..." alt="" coords="5,155,179,181"/>
+<area shape="rect" id="node4" href="$classchoir_1_1ChoirSession.html" title="This is the class that that the Choir demo uses to implement its data&#45;replication functionality..." alt="" coords="41,229,143,256"/>
+</map>

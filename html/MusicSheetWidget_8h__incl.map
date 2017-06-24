@@ -1,0 +1,10 @@
+<map id="MusicSheetWidget.h" name="MusicSheetWidget.h">
+<area shape="rect" id="node5" href="$INetworkTimeProvider_8h.html" title="zg/INetworkTimeProvider.h" alt="" coords="205,304,387,331"/>
+<area shape="rect" id="node8" href="$MusicSheet_8h.html" title="MusicSheet.h" alt="" coords="377,80,479,107"/>
+<area shape="rect" id="node19" href="$PlaybackState_8h.html" title="PlaybackState.h" alt="" coords="518,80,636,107"/>
+<area shape="rect" id="node6" href="$ZGNameSpace_8h.html" title="zg/ZGNameSpace.h" alt="" coords="447,379,589,405"/>
+<area shape="rect" id="node9" href="$MusicData_8h.html" title="MusicData.h" alt="" coords="597,155,693,181"/>
+<area shape="rect" id="node13" href="$ZGPeerID_8h.html" title="zg/ZGPeerID.h" alt="" coords="737,229,847,256"/>
+<area shape="rect" id="node16" href="$IDatabaseObject_8h.html" title="zg/IDatabaseObject.h" alt="" coords="347,229,497,256"/>
+<area shape="rect" id="node18" href="$ChoirNameSpace_8h.html" title="ChoirNameSpace.h" alt="" coords="523,229,661,256"/>
+</map>

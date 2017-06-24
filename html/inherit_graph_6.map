@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classzg_1_1ZGPeerSession.html" title="This is the class that a user program would typically subclass from and add to a ReflectServer in ord..." alt="" coords="262,69,378,96"/>
+<area shape="rect" id="node3" href="$classzg_1_1ZGDatabasePeerSession.html" title="This is a convenience class; it is the same as a ZGPeerSession except that it also knows how to creat..." alt="" coords="429,69,603,96"/>
+<area shape="rect" id="node4" href="$classchoir_1_1ChoirSession.html" title="This is the class that that the Choir demo uses to implement its data&#45;replication functionality..." alt="" coords="676,69,777,96"/>
+<area shape="rect" id="node5" href="$classzg_1_1INetworkTimeProvider.html" title="This is an abstract interface for an object that can provide us with network&#45;clock&#45;time values..." alt="" coords="31,157,185,184"/>
+<area shape="rect" id="node6" href="$classzg_1_1IDatabaseObject.html" title="An interface for an object that represents the full contents of a ZG database. " alt="" coords="259,196,381,223"/>
+<area shape="rect" id="node7" href="$classchoir_1_1MusicDatabaseObject.html" title="A slight specialization of the IDatabaseObject class, just so I can add some application&#45;specific hel..." alt="" coords="440,196,592,223"/>
+<area shape="rect" id="node8" href="$classchoir_1_1MusicSheet.html" title="This object is the in&#45;memory representation of a song, as a collection of notes over time..." alt="" coords="681,145,773,172"/>
+<area shape="rect" id="node9" href="$classchoir_1_1NoteAssignmentsMap.html" title="This object specifies which peers should be playing which notes. " alt="" coords="651,196,803,223"/>
+<area shape="rect" id="node10" href="$classchoir_1_1PlaybackState.html" title="This object holds the state of how the currently&#45;in&#45;memory Music sheet should be performed over time..." alt="" coords="673,247,780,273"/>
+<area shape="rect" id="node11" href="$classzg_1_1ITextCommandReceiver.html" title="Interface for an object that can receive text commands from the user. " alt="" coords="25,56,191,83"/>
+</map>

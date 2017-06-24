@@ -1,0 +1,7 @@
+<map id="MusicDatabaseObject" name="MusicDatabaseObject">
+<area shape="rect" id="node5" href="$classchoir_1_1MusicSheet.html" title="This object is the in&#45;memory representation of a song, as a collection of notes over time..." alt="" coords="5,229,96,256"/>
+<area shape="rect" id="node6" href="$classchoir_1_1NoteAssignmentsMap.html" title="This object specifies which peers should be playing which notes. " alt="" coords="121,229,273,256"/>
+<area shape="rect" id="node7" href="$classchoir_1_1PlaybackState.html" title="This object holds the state of how the currently&#45;in&#45;memory Music sheet should be performed over time..." alt="" coords="297,229,404,256"/>
+<area shape="rect" id="node2" href="$classzg_1_1IDatabaseObject.html" title="An interface for an object that represents the full contents of a ZG database. " alt="" coords="137,80,257,107"/>
+<area shape="rect" id="node4" href="$classzg_1_1INetworkTimeProvider.html" title="This is an abstract interface for an object that can provide us with network&#45;clock&#45;time values..." alt="" coords="198,5,351,32"/>
+</map>

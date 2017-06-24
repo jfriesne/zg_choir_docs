@@ -1,0 +1,6 @@
+<map id="ZGDatabasePeerSession" name="ZGDatabasePeerSession">
+<area shape="rect" id="node7" href="$classchoir_1_1ChoirSession.html" title="This is the class that that the Choir demo uses to implement its data&#45;replication functionality..." alt="" coords="645,81,747,108"/>
+<area shape="rect" id="node2" href="$classzg_1_1ZGPeerSession.html" title="This is the class that a user program would typically subclass from and add to a ReflectServer in ord..." alt="" coords="259,81,375,108"/>
+<area shape="rect" id="node4" href="$classzg_1_1ITextCommandReceiver.html" title="Interface for an object that can receive text commands from the user. " alt="" coords="25,56,191,83"/>
+<area shape="rect" id="node6" href="$classzg_1_1INetworkTimeProvider.html" title="This is an abstract interface for an object that can provide us with network&#45;clock&#45;time values..." alt="" coords="31,157,185,184"/>
+</map>

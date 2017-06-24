@@ -1,0 +1,23 @@
+<map id="ZGNameSpace.h" name="ZGNameSpace.h">
+<area shape="rect" id="node2" href="$IDatabaseObject_8h.html" title="IDatabaseObject.h" alt="" coords="623,155,755,181"/>
+<area shape="rect" id="node15" href="$INetworkTimeProvider_8h.html" title="INetworkTimeProvider.h" alt="" coords="565,80,731,107"/>
+<area shape="rect" id="node17" href="$ZGConstants_8h.html" title="ZGConstants.h" alt="" coords="275,80,387,107"/>
+<area shape="rect" id="node18" href="$ZGPeerID_8h.html" title="ZGPeerID.h" alt="" coords="5,80,99,107"/>
+<area shape="rect" id="node19" href="$ZGPeerSettings_8h.html" title="ZGPeerSettings.h" alt="" coords="123,80,251,107"/>
+<area shape="rect" id="node20" href="$ZGStdinSession_8h.html" title="ZGStdinSession.h" alt="" coords="411,80,540,107"/>
+<area shape="rect" id="node21" href="$ChoirNameSpace_8h.html" title="ChoirNameSpace.h" alt="" coords="939,155,1077,181"/>
+<area shape="rect" id="node3" href="$ZGDatabasePeerSession_8h.html" title="ZGDatabasePeerSession.h" alt="" coords="639,229,823,256"/>
+<area shape="rect" id="node7" href="$MusicData_8h.html" title="MusicData.h" alt="" coords="519,229,615,256"/>
+<area shape="rect" id="node4" href="$ChoirSession_8h.html" title="ChoirSession.h" alt="" coords="744,304,856,331"/>
+<area shape="rect" id="node5" href="$ChoirThread_8h.html" title="ChoirThread.h" alt="" coords="864,379,971,405"/>
+<area shape="rect" id="node6" href="$ChoirWindow_8h.html" title="ChoirWindow.h" alt="" coords="861,453,973,480"/>
+<area shape="rect" id="node8" href="$MusicSheet_8h.html" title="MusicSheet.h" alt="" coords="617,304,719,331"/>
+<area shape="rect" id="node11" href="$PlaybackState_8h.html" title="PlaybackState.h" alt="" coords="474,304,592,331"/>
+<area shape="rect" id="node12" href="$NoteAssignmentsMap_8h.html" title="NoteAssignmentsMap.h" alt="" coords="183,304,347,331"/>
+<area shape="rect" id="node14" href="$Quasimodo_8h.html" title="Quasimodo.h" alt="" coords="981,304,1083,331"/>
+<area shape="rect" id="node9" href="$MusicSheetPlayer_8h.html" title="MusicSheetPlayer.h" alt="" coords="677,379,816,405"/>
+<area shape="rect" id="node10" href="$MusicSheetWidget_8h.html" title="MusicSheetWidget.h" alt="" coords="461,379,605,405"/>
+<area shape="rect" id="node13" href="$RosterWidget_8h.html" title="RosterWidget.h" alt="" coords="89,379,201,405"/>
+<area shape="rect" id="node16" href="$ZGPeerSession_8h.html" title="ZGPeerSession.h" alt="" coords="133,155,259,181"/>
+<area shape="rect" id="node22" href="$ChoirProtocol_8h.html" title="ChoirProtocol.h" alt="" coords="1158,229,1271,256"/>
+</map>

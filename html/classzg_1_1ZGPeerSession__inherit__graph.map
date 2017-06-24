@@ -1,0 +1,6 @@
+<map id="ZGPeerSession" name="ZGPeerSession">
+<area shape="rect" id="node6" href="$classzg_1_1ZGDatabasePeerSession.html" title="This is a convenience class; it is the same as a ZGPeerSession except that it also knows how to creat..." alt="" coords="424,81,597,108"/>
+<area shape="rect" id="node3" href="$classzg_1_1ITextCommandReceiver.html" title="Interface for an object that can receive text commands from the user. " alt="" coords="25,56,191,83"/>
+<area shape="rect" id="node5" href="$classzg_1_1INetworkTimeProvider.html" title="This is an abstract interface for an object that can provide us with network&#45;clock&#45;time values..." alt="" coords="31,157,185,184"/>
+<area shape="rect" id="node7" href="$classchoir_1_1ChoirSession.html" title="This is the class that that the Choir demo uses to implement its data&#45;replication functionality..." alt="" coords="645,81,747,108"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="MusicData.h" name="MusicData.h">
+<area shape="rect" id="node2" href="$ChoirSession_8h.html" title="ChoirSession.h" alt="" coords="44,80,156,107"/>
+<area shape="rect" id="node4" href="$ChoirWindow_8h.html" title="ChoirWindow.h" alt="" coords="123,229,235,256"/>
+<area shape="rect" id="node5" href="$MusicSheet_8h.html" title="MusicSheet.h" alt="" coords="471,80,573,107"/>
+<area shape="rect" id="node8" href="$PlaybackState_8h.html" title="PlaybackState.h" alt="" coords="598,80,716,107"/>
+<area shape="rect" id="node9" href="$NoteAssignmentsMap_8h.html" title="NoteAssignmentsMap.h" alt="" coords="191,80,355,107"/>
+<area shape="rect" id="node11" href="$Quasimodo_8h.html" title="Quasimodo.h" alt="" coords="355,155,456,181"/>
+<area shape="rect" id="node3" href="$ChoirThread_8h.html" title="ChoirThread.h" alt="" coords="35,155,141,181"/>
+<area shape="rect" id="node6" href="$MusicSheetPlayer_8h.html" title="MusicSheetPlayer.h" alt="" coords="649,155,788,181"/>
+<area shape="rect" id="node7" href="$MusicSheetWidget_8h.html" title="MusicSheetWidget.h" alt="" coords="480,155,624,181"/>
+<area shape="rect" id="node10" href="$RosterWidget_8h.html" title="RosterWidget.h" alt="" coords="217,155,329,181"/>
+</map>

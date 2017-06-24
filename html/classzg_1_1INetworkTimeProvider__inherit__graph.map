@@ -1,0 +1,10 @@
+<map id="INetworkTimeProvider" name="INetworkTimeProvider">
+<area shape="rect" id="node2" href="$classzg_1_1IDatabaseObject.html" title="An interface for an object that represents the full contents of a ZG database. " alt="" coords="206,80,327,107"/>
+<area shape="rect" id="node7" href="$classzg_1_1ZGPeerSession.html" title="This is the class that a user program would typically subclass from and add to a ReflectServer in ord..." alt="" coords="374,80,489,107"/>
+<area shape="rect" id="node3" href="$classchoir_1_1MusicDatabaseObject.html" title="A slight specialization of the IDatabaseObject class, just so I can add some application&#45;specific hel..." alt="" coords="145,155,297,181"/>
+<area shape="rect" id="node4" href="$classchoir_1_1MusicSheet.html" title="This object is the in&#45;memory representation of a song, as a collection of notes over time..." alt="" coords="5,229,96,256"/>
+<area shape="rect" id="node5" href="$classchoir_1_1NoteAssignmentsMap.html" title="This object specifies which peers should be playing which notes. " alt="" coords="121,229,273,256"/>
+<area shape="rect" id="node6" href="$classchoir_1_1PlaybackState.html" title="This object holds the state of how the currently&#45;in&#45;memory Music sheet should be performed over time..." alt="" coords="297,229,404,256"/>
+<area shape="rect" id="node8" href="$classzg_1_1ZGDatabasePeerSession.html" title="This is a convenience class; it is the same as a ZGPeerSession except that it also knows how to creat..." alt="" coords="368,155,541,181"/>
+<area shape="rect" id="node9" href="$classchoir_1_1ChoirSession.html" title="This is the class that that the Choir demo uses to implement its data&#45;replication functionality..." alt="" coords="428,229,529,256"/>
+</map>
