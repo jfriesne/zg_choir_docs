@@ -1,0 +1,25 @@
+<HTML><BODY>
+
+<h1>ZGChoir v1.00 </h1>
+<h2>by Jeremy Friesner (jfriesne@gmail.com)</h2>
+<h2>Released 6/26/2017</h2>
+
+<p>This page hosts the current release of the ZG distributed networking API and its associated demo application, ZGChoir.
+
+<p>The purpose of this software is to demonstrate a method of fault-tolerant distributed computing, in which a team of computers on a LAN automatically work together to provide a high-availability service with N-way failover.  The computers on the team self-organize, so that as long as at least one team member remains online and functional, the service remains available and no functionality or data is lost.  In particular, individual computers may go offline or come online at any time without disrupting the functionality of the overall system -- there is no "single point of failure".
+
+<p>To demonstrate this behavior in a way that is easy to visualize and understand, the ZGChoir demo application harnesses a team of computers together to perform as a handbell choir -- each participating computer is assigned to play one or more handbells, and they collaborate on the playback.  If a particular peer goes away, his handbells are automatically re-assigned to some other (remaining) peers, such that the song continues to be played correctly.  If a new peer comes online, he will be given some handbells to play, reducing the load on the other peers.
+
+<il>
+<li>The full README file for the ZGChoir demo application can be viewed at <a href="https://jfriesne.github.io/zg_choir_docs/README.html">this link</a>.
+<li>Click <a href="https://github.com/jfriesne/zg_choir/releases/download/v1.00/ZGChoir_v1.00_for_MacOSX.dmg">here</a> to download the MacOS/X installer for the ZGChoir demo program.
+<li>Click <a href="https://github.com/jfriesne/zg_choir/releases/download/v1.00/ZGChoir_v1.00_for_Windows.exe">here</a> to download the Windows installer for the ZGChoir demo program.
+<li>Pre-packaged source code for the ZGChoir program and ZG library can be found at <a href="https://github.com/jfriesne/zg_choir/releases/download/v1.00/ZGChoir_v1.00_Source.zip">this link</a>.
+<li>The GitHub page for ZG/ZGChoir can be found at <a href="https://github.com/jfriesne/zg_choir">this link</a>.
+<li>The C++ Programmer's Guide file to the ZG library can be found at <a href="http://htmlpreview.github.io/?https://github.com/jfriesne/zg_choir/blob/master/html/README_DEVELOPERS.html">this link</a>.
+<li>Online DOxygen API documentation for the ZG and ZGChoir software can be found at <a href="https://jfriesne.github.io/zg_choir_docs/html/annotated.html">this link</a>.
+</il>
+<p>
+<img src="https://github.com/jfriesne/zg_choir/blob/master/demos/choir/html/images/ZGChoir_Annotated_Screenshot_1.png?raw=true" height="600"></img>
+
+</body></html>
