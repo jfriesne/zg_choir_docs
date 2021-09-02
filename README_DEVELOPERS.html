@@ -151,8 +151,8 @@ The above gives us a good idea of what ZG does; now it's time to look into the a
       ReflectServer server;
             
       // Add our session objects to the ReflectServer object so that they will be used during program execution
-      server.AddNewSession(DummyZGStdinSessionRef(&zgStdinSession));
-      server.AddNewSession(DummyZGPeerSessionRef(&zgPeerSession));
+      server.AddNewSession(DummyZGStdinSessionRef(zgStdinSession));
+      server.AddNewSession(DummyZGPeerSessionRef(zgPeerSession));
 
       // Virtually all of the program's execution time happens inside the ServerProcessLoop() method
       server.ServerProcessLoop();  // doesn't return until it's time to exit
